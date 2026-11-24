@@ -1,0 +1,8 @@
+{
+  "name": "Raja Talenan",
+  "description": "Game incremental pixel-art memotong sayuran, buah-buahan, dan daging dengan upgrade pisau, kecepatan potong, dan sistem kombo presisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
